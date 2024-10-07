@@ -2,3 +2,14 @@
 a.active {
     font-weight: bold;
 }
+
+body{
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+    border-top: 15px solid #424242;
+    margin: 0;
+}
+
+img{
+    width: 100%;
+}
